@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @44student27
+- 👋 Hi, I’m fatemeh-7ngp7
 - 👀 I’m interested in software development and innovative tech solutions.
 - 🌱 I’m currently learning advanced Python concepts, Django development, and database optimization techniques.
 - 💞️ I’m looking to collaborate on challenging coding projects and cutting-edge AI applications.
